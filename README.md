@@ -12,5 +12,4 @@ Make things funny.
 
 Member:
 
-Xinxing Zhou
-Hongliu Zhu
+Xinxing Zhou, Hongliu Zhu, etc.
